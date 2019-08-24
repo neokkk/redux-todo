@@ -14,7 +14,10 @@ React, Redux
 
 ### `Main Function`
 
-Daily Scheduling (Todolist Web Application)
+Managing to do list
+
+- upload todos
+- check completed todos
 
 
 ### `Update Function`
