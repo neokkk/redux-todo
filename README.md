@@ -23,6 +23,6 @@ Managing to do list
 ### `Update Function`
 
 - Calendar
-- DB connecting (MongoDB / MySQL)
+- DB connecting
 - CSS animation
 - Searching
